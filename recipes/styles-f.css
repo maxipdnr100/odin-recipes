@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    font-family: Montserrat, sans-serif;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.title {
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+    font-weight: 800;
+}
+/* Must solve img centering. */
+.img {
+}
+
+.container {
+    padding: 5px;
+    background-color: #e9e9e9;
+}
+.subtitle {
+    margin: 10px;
+    background-color: #cfcfcf;
+}
+
+.text {
+    margin: 10px;
+    background-color: #cfcfcf;
+}
+
+.list {
+    margin: 10px;
+    padding: 10px;
+    background-color: #cfcfcf;
+}
+.link {
+    color: rgb(150, 150, 0);
+}
+
+.thanks {
+    margin: 10px auto;
+    text-align: center;
+}
